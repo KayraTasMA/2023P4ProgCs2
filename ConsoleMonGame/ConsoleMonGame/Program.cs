@@ -1,10 +1,10 @@
 ﻿namespace ConsoleMonGame
 {
-    internal class Program
+    internal class @class
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
         }
     }
 }
